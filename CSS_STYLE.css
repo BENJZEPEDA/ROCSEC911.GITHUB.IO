@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(201, 155, 95);
+    background-image: linear-gradient(180deg, grey, rgb(197, 166, 131));
+}
+
+.funWithButtons {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}
+
+.crapsWithButtons {
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: rebeccapurple;
+}
+
+.soundButton {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}
